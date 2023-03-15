@@ -48,6 +48,7 @@ public class CandidatoController {
 			String tema = "";
 			double nota = 0.00;
 			int acertos = 0;
+			int teste = 0;
 			
 			try {
 				codCand = candidatoView.getCod();
